@@ -21,7 +21,7 @@
 | Date | Day | Slug | Keyword | Category | Status |
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-hacienda-heights | what happens after an arrest in Hacienda Heights | Bail Process | ✅ published |
-| 2026-04-09 | Thu | how-bail-bonds-work-hacienda-heights | how do bail bonds work in Hacienda Heights | Bail Bonds 101 | ⬜ |
+| 2026-04-09 | Thu | how-bail-bonds-work-hacienda-heights | how do bail bonds work in Hacienda Heights | Bail Bonds 101 | ✅ published |
 | 2026-04-10 | Fri | how-much-is-bail-hacienda-heights | how much is bail in Los Angeles County | Bail Amounts | ⬜ |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-hacienda-heights | how to get someone out of jail in Hacienda Heights | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-hacienda-heights | domestic violence bail bonds Hacienda Heights | DV Bail | ⬜ |
