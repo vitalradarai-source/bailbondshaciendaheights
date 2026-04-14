@@ -22,11 +22,11 @@
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-hacienda-heights | what happens after an arrest in Hacienda Heights | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-hacienda-heights | how do bail bonds work in Hacienda Heights | Bail Bonds 101 | ✅ published |
-| 2026-04-10 | Fri | how-much-is-bail-hacienda-heights | how much is bail in Los Angeles County | Bail Amounts | ⬜ |
+| 2026-04-10 | Fri | how-much-is-bail-hacienda-heights | how much is bail in Los Angeles County | Bail Amounts | ✅ published |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-hacienda-heights | how to get someone out of jail in Hacienda Heights | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-hacienda-heights | domestic violence bail bonds Hacienda Heights | DV Bail | ⬜ |
 | 2026-04-13 | Mon | dui-bail-bonds-hacienda-heights | DUI bail bonds Hacienda Heights | DUI | ⬜ |
-| 2026-04-14 | Tue | felony-bail-bonds-hacienda-heights | felony bail bonds Hacienda Heights | Felony | ⬜ |
+| 2026-04-14 | Tue | 2026-04-14-hacienda-heights-bail-bonds | hacienda heights bail bonds | Hub Post | ✅ published |
 | 2026-04-15 | Wed | drug-possession-bail-hacienda-heights | drug possession bail Hacienda Heights | Drug Charges | ⬜ |
 | 2026-04-16 | Thu | bail-someone-out-at-night-hacienda-heights | can you bail someone out at night in Hacienda Heights | 24/7 Bail | ⬜ |
 | 2026-04-17 | Fri | how-long-bail-takes-hacienda-heights | how long does it take to bail someone out of LASD Industry Station | Timeline | ⬜ |
