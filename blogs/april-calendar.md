@@ -33,16 +33,16 @@
 | 2026-04-18 | Sat | bail-bond-cost-hacienda-heights | how much does a bail bondsman charge in Hacienda Heights | Costs | ⬜ |
 | 2026-04-19 | Sun | bail-bond-payment-plan-hacienda-heights | bail bond payment plan Hacienda Heights | Payment Plans | ⬜ |
 | 2026-04-20 | Mon | jail-booking-process-hacienda-heights | jail booking process at LASD Industry Station | Jail Process | ⬜ |
-| 2026-04-21 | Tue | inmate-search-hacienda-heights | how to find someone in jail Hacienda Heights | Inmate Search | ⬜ |
-| 2026-04-22 | Wed | what-to-expect-arraignment-hacienda-heights | what to expect at arraignment Pomona Courthouse | Court Process | ⬜ |
-| 2026-04-23 | Thu | bail-hearing-hacienda-heights | bail hearing process in Los Angeles County | Bail Hearing | ⬜ |
-| 2026-04-24 | Fri | warrant-bail-bonds-hacienda-heights | warrant bail bonds Hacienda Heights | Warrants | ⬜ |
-| 2026-04-25 | Sat | what-happens-miss-court-hacienda-heights | what happens if you miss court date Hacienda Heights | FTA | ⬜ |
-| 2026-04-26 | Sun | assault-bail-bonds-hacienda-heights | assault and battery bail bonds Hacienda Heights | Assault | ⬜ |
-| 2026-04-27 | Mon | theft-bail-bonds-hacienda-heights | theft and burglary bail bonds Hacienda Heights | Theft | ⬜ |
-| 2026-04-28 | Tue | choosing-bail-bondsman-hacienda-heights | how to choose a bail bondsman in Hacienda Heights | How to Choose | ⬜ |
-| 2026-04-29 | Wed | bail-bond-cosigner-hacienda-heights | what does a bail bond cosigner do Hacienda Heights | Cosigner | ⬜ |
-| 2026-04-30 | Thu | bail-bond-conditions-hacienda-heights | bail conditions and restrictions Los Angeles County | Conditions | ⬜ |
+| 2026-04-21 | Tue | bail-bond-cosigner-hacienda-heights | what does a bail bond cosigner do Hacienda Heights | Cosigner | ⬜ |
+| 2026-04-22 | Wed | bail-bond-conditions-hacienda-heights | bail conditions and restrictions in Los Angeles | Conditions | ⬜ |
+| 2026-04-23 | Thu | first-offense-bail-hacienda-heights | first offense bail bonds Hacienda Heights | First Offense | ⬜ |
+| 2026-04-24 | Fri | felony-vs-misdemeanor-bail-hacienda-heights | felony vs misdemeanor bail Hacienda Heights | Charge Types | ⬜ |
+| 2026-04-25 | Sat | weapon-charges-bail-hacienda-heights | weapon charges bail bonds Hacienda Heights | Weapon Charges | ⬜ |
+| 2026-04-26 | Sun | immigration-hold-bail-hacienda-heights | ICE hold bail questions Hacienda Heights | Immigration | ⬜ |
+| 2026-04-27 | Mon | probation-violation-bail-hacienda-heights | probation violation bail Hacienda Heights | Probation | ⬜ |
+| 2026-04-28 | Tue | bench-warrant-hacienda-heights | bench warrant bail bonds Hacienda Heights | Bench Warrant | ⬜ |
+| 2026-04-29 | Wed | restraining-order-bail-hacienda-heights | restraining order and bail Hacienda Heights | Restraining Order | ⬜ |
+| 2026-04-30 | Thu | bail-bond-cost-hacienda-heights | how much does a bail bondsman charge in Hacienda Heights | Costs | ⬜ |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
