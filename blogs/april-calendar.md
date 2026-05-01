@@ -42,7 +42,7 @@
 | 2026-04-27 | Mon | probation-violation-bail-hacienda-heights | probation violation bail Hacienda Heights | Probation | ⬜ |
 | 2026-04-28 | Tue | bench-warrant-hacienda-heights | bench warrant bail bonds Hacienda Heights | Bench Warrant | ⬜ |
 | 2026-04-29 | Wed | restraining-order-bail-hacienda-heights | restraining order and bail Hacienda Heights | Restraining Order | ⬜ |
-| 2026-04-30 | Thu | bail-bond-cost-hacienda-heights | how much does a bail bondsman charge in Hacienda Heights | Costs | ⬜ |
+| 2026-04-30 | Thu | bail-bond-cost-hacienda-heights | how much does a bail bondsman charge in Hacienda Heights | Costs | ✅ published |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
